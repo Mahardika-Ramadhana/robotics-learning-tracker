@@ -99,7 +99,7 @@ Resource: [fast.ai Practical Deep Learning](https://course.fast.ai)
 
 - [x] Install package lewat `apt` dan `pip`
 - [x] Buat script bash, beri permission execute dengan `chmod +x`, jalankan
-- [ ] Baca dan set file permission (`rwx`)
+- [x] Baca dan set file permission (`rwx`)
 
 ### Process Management
 

@@ -91,13 +91,13 @@ Resource: [fast.ai Practical Deep Learning](https://course.fast.ai)
 
 ### Navigasi Dasar
 
-- [ ] Navigasi filesystem lewat terminal (`cd`, `ls`, `pwd`, `mkdir`, `rm`, `mv`, `cp`)
-- [ ] Buka dan edit file dengan `nano` atau `vim`
-- [ ] Cari file berdasarkan nama dengan `find` dan isi dengan `grep`
+- [x] Navigasi filesystem lewat terminal (`cd`, `ls`, `pwd`, `mkdir`, `rm`, `mv`, `cp`)
+- [x] Buka dan edit file dengan `nano` atau `vim`
+- [x] Cari file berdasarkan nama dengan `find` dan isi dengan `grep`
 
 ### Package & Permission
 
-- [ ] Install package lewat `apt` dan `pip`
+- [x] Install package lewat `apt` dan `pip`
 - [ ] Buat script bash, beri permission execute dengan `chmod +x`, jalankan
 - [ ] Baca dan set file permission (`rwx`)
 

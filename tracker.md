@@ -224,7 +224,7 @@ Pelajari paralel dengan ROS 2 — baca source code, modifikasi hal kecil.
 | Python | 🔴 |
 | Git | 🔴 |
 | PyTorch | 🔴 |
-| Linux (Ubuntu) | 🔴 |
+| Linux (Ubuntu) | 🟡 |
 | Docker | 🔴 |
 | OpenCV + CV | 🔴 |
 | ROS 2 | 🔴 |
